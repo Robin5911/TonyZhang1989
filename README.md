@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TonyZhang1989
 - 👀 I’m interested in openstack/kubernetes/golang/devops
 - 🌱 I’m currently learning golang.
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me #wechat : general__1989
 
 <!---
